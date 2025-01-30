@@ -13,7 +13,7 @@ A **simple** and **intuitive** Body Mass Index (BMI) calculator app built with *
 
 | Home Screen | Result Screen |
 |-------------|--------------|
-| ![Home](screenshots/screenshot1.png) | ![Result](screenshots/screenshot2.png) |
+| ![Home](screenshots/bmi_screen.jpg) | ![Result](screenshots/bmi_result_screen.jpg) |
 
 ## 🚀 Getting Started
 
