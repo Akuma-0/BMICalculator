@@ -13,7 +13,7 @@ A **simple** and **intuitive** Body Mass Index (BMI) calculator app built with *
 
 | Home Screen | Result Screen |
 |-------------|--------------|
-| ![Home](screenshots/bmi_screen.jpg) | ![Result](screenshots/bmi_result_screen.jpg) |
+| ![Home](screenshots/bmi_screen.png) | ![Result](screenshots/bmi_result_screen.png) |
 
 ## 🚀 Getting Started
 
@@ -65,4 +65,5 @@ Contributions are **welcome**! If you’d like to contribute:
 ---
 
 🌟 **Enjoy using the BMI Calculator! If you like it, give it a ⭐ on GitHub!**
+
 
